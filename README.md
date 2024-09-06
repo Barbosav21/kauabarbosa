@@ -2,7 +2,7 @@
 
 Meu nome é Kauã Barbosa
 
--Estou estudando na Maria Lucia 
+-Estou estudando na Maria Lucia Padovani
 -Estou me desenvolvendo no Alura
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
