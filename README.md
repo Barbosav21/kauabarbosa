@@ -1,4 +1,4 @@
-### boas vindas ao meu perfil 🦸
+### boas vindas ao meu perfil 😶‍🌫️
 
 Meu nome é Kauã Barbosa
 
@@ -6,7 +6,7 @@ Meu nome é Kauã Barbosa
 -Estou me desenvolvendo no Alura
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### você entrar em contato comigo 📫
+### você entra em contato comigo 📫
 
 0000111007038xsp@al.educacao.sp.gov.br
 
